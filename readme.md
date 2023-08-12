@@ -1,10 +1,12 @@
 # 仿12306售票系统
 
 技术栈：Spring Cloud Alibaba，Spring Boot3，JDK17，MySQL，Redis，Nacos，Sentinel，Seata，RocketMQ，Jmeter
+
 微服务项目，前后端分离，前端包括admin和web，后端包括gateway，member，business，batch模块。
 
 ## 整体系统架构如下：
-![image.png](https://note.youdao.com/yws/res/19537/WEBRESOURCE55d748e8e48d577b8b02341dca262d4e)
+![image](https://github.com/nowsoar/train/assets/55320992/4a81ba2c-fa7d-4da6-8c10-a557d3b5a6a7)
+
 
 ## 核心功能：
 - 会员
